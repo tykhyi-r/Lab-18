@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tykhyi-r/lab18_tykhyi.git/static/css/main.114d800f.css",
+    "main.js": "/tykhyi-r/lab18_tykhyi.git/static/js/main.a0042909.js",
+    "index.html": "/tykhyi-r/lab18_tykhyi.git/index.html",
+    "main.114d800f.css.map": "/tykhyi-r/lab18_tykhyi.git/static/css/main.114d800f.css.map",
+    "main.a0042909.js.map": "/tykhyi-r/lab18_tykhyi.git/static/js/main.a0042909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114d800f.css",
+    "static/js/main.a0042909.js"
+  ]
+}
